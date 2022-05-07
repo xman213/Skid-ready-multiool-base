@@ -8,6 +8,7 @@ options system
 
 # Requirements
 pystyle
+
 pypresence
 
 # How to change the RPC?
