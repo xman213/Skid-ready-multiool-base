@@ -11,6 +11,12 @@ pystyle
 
 pypresence
 
+# Installing the requirements
+```
+pip install pystyle
+pip install pypresence
+```
+
 # How to change the RPC?
 change the client id in line 9
 
