@@ -6,7 +6,7 @@ import time
 
 
 os.system('title MULTITOOL BASE (made by xman)')
-client_id = 972561329141473321 
+client_id = 972561329141473321 #change this to your client id
 try:
     rpc = pypresence.Presence(client_id)
     rpc.connect()
