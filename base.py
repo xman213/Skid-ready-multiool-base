@@ -57,3 +57,5 @@ if __name__ == '__main__':
         
         elif option == 3:
              print(Colorate.Horizontal(Colors.blue_to_red,'do something'))
+        else:
+            print(Colorate.Horizontal(Colors.blue_to_red,'Bad input, Please input a number between 1 and 3')
