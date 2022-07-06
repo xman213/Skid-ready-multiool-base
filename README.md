@@ -14,6 +14,7 @@ Colored text,
 Discord RPC,
 and a
 options system
+```
 
 # Requirements
 pystyle
